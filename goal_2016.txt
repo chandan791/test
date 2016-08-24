@@ -1,0 +1,130 @@
+
+*GoalRequired
+
+Automate and Implement best practices.
+
+
+Description
+
+
+1.deployment automation of large enterprise hosted products on cloud (Amazon EC2, Private Cloud, and Data Center.
+
+2.iSeries Automation (Grant Access )
+
+""I've worked on many ICO projects during this
+year. Almost all the ICO projects were
+supported by me. There were many projects
+which had hard deadlines like NY projects,
+Cirrus project and many other compliance
+projects. I supported all these projects and met
+the hard deadline even if I had to work for
+extended hours for this. I got many
+appreciations also for my work from ICO
+managers.""
+
+==========================================
+
+GoalRequired
+
+
+Implement Build and Release management.
+
+
+Description
+
+
+1.Find opportunity areas in ICO for Build and Release management.
+
+2.Propose Initial draft/ plan to implement the findings.
+
+3. Learn LC Process and deployment hand on.
+
+4. Connect with people.
+
+5.Stabilize Build and release management in ICO.
+
+6.Conduct training session 
+
+""I've consistently worked on Release Management.Propose Initial draft/ plan to implement the findings and learn LC Process and deployment hands on.
+
+ Also I've
+worked on tickets proactively which were in
+Deployment queue.""
+"
+
+===========================================
+
+*GoalRequired
+
+
+Implementing the plan in 3 stages by segregating them into R2k GUI, Media and SSC.
+
+
+Description
+
+
+1.Propose Initial draft/ plan to implement the findings.
+
+2.Increase collaboration with tech line leads i.e. functional managers.
+
+3.Create cross function talent pool .
+
+4.Prepare and make available regular reports detailing recent Release Management activity and future planned or recommended activity.
+
+""I have done exceptionally well in this area. Any
+work which was given to me, i performed it
+under least supervision. Also my manager does
+review my work but most of the time he finds
+my work perfect""
+
+------------------------------------------------------
+
+*GoalRequired
+
+Learning and Development
+
+
+Description
+
+1. ITIL- Release management.
+
+2.TFS Admin trainings.
+
+3. Release management of LC.
+
+4. Learn and implement LC deployment.
+
+""I've completed all mentioned training. TFS ,Release Management-
+Now and performance training (iDoctor)
+were done in first quarter itself. Did Nexus repositery
+training in April. After doing the Jenkins training, I implemented job  now which is
+working perfectly in prod. 
+Apart from this, I've also attended cogent
+ training. And also shared my
+knowledge of iSeries DB2 by providing the
+training to internal team.""
+
+===================================================
+
+*GoalRequired
+
+Propose a plan to transition Build and Release management.
+
+
+Description
+
+1.End to End Change Management
+
+2.Optimize some process to improve our system.
+
+3.Transition/ KT and shared with team as-well. 
+
+
+
+"i have  Worked well to complete the assigned task on time.Results are as expected. 
+Share the best way for others to communicate with me regarding deployment, Release management, Change management, Transition etc."
+
+========================================================
+
+
+

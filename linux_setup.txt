@@ -1,0 +1,38 @@
+bash
+    2  ls
+    3  ifconfig
+    4  yum install bind-utils
+    5  yum update
+    6  vi /etc/sysconfig/network-scripts/ifcfg-enp0s3
+    7  systemctl start network
+    8  ifconfig
+    9  yum update
+   10  reboot
+   11  ifconfig
+   12  ip -a
+   13  yum update
+   14  vi /etc/selinux/config
+   15  systemctl disable firewalld
+   16  systemctl stop firewalld
+   17  iptables -L
+   18  yum install bind-utils
+   19  yum install ifconfig
+   20  yum whatprovides ifconfig
+   21  yum instal net-tools
+   22  yum install net-tools
+   23  ifconfig
+   24  init 0
+   25  ifconfig
+   26  ifconfig |more
+   27  reboot
+   28  ls -lrt
+   29  pwd
+   30  df -k
+   31  pwd
+   32  who
+   33  whoami
+   34  history
+
+
+
+6 years of experience in IT industry of L2 production application support. Currently working with Encore Capital Group to support various web and intranet applications also handling team of 3 persons.

@@ -1,0 +1,252 @@
+Introduction to DevOps
+
+ 
+
+What is DevOps?
+
+History of DevOps
+
+Dev and Ops
+
+DevOps definitions
+
+DevOps and Software Development Life Cycle
+
+DevOps main objectives
+
+Infrastructure As A Code
+
+IaaS Overview
+Paas Overview
+DevOps on the Cloud
+
+Prerequisites for DevOps
+
+Introduction to Linux
+
+Basics of UNIX and Linux Operating Systems
+Linux System administration introduction
+Tools (Jenkins, Chef, Docker, Vagrant and so on.)
+
+Continuous Testing and Integration
+
+Continuous Release and Deployment
+
+Continuous Application Monitoring
+
+CLOUD COMPUTING and VIRTUALIZATION
+
+History and evolution of cloud
+
+Cloud computing concepts
+
+Grid Computing vs. Cloud Computing
+
+Characteristics and Benefits of Cloud
+
+Cloud service models (NIST)
+
+IaaS, PaaS and SaaS
+
+Cloud service model implementations
+
+Cloud Deployment Models (NIST)
+
+Virtualization
+
+Virtual Machines
+
+Virtual bootable OS Images
+
+Cloud Storage
+
+SOA and Cloud
+
+Virtual Private Cloud (VPC)
+
+Risk in Cloud and DevOps security concerns
+
+Introduction to AWS and AZURE
+
+DEVOPS ADOPTION
+
+CRITERIA
+
+Things to Look For and Avoid
+IT Assets Ownership
+Viewing Applications As Products, not Projects
+DevOps in the Enterprise
+IT Governance
+Governance and Risk Mitigation
+DevOps Adoption Steps
+Select DevOps Techniques and Practices
+Service Quality Metrics
+TOOLS
+
+The Choice of Cloud Platform
+IaaS for DevOps
+PaaS for DevOps
+Containerization Tools
+System Configuration Automation and Management
+Continuous Integration (CI) Systems
+Build and Dependency Management Systems
+Select DevOps Tools
+Collaborative Lifecycle Management Solutions from IBM
+Rational Team Concert (RTC)
+Rational Quality Manager (RQM)
+Rational DOORS Next Generation (DNG)
+DEVOPS TOOLS: CHEF
+
+Overview of Chef
+
+Common Chef Terminology (Server, Workstation, Client, Repository etc.)
+Servers and Nodes
+Chef Configuration Concepts
+Workstation Setup
+
+How to configure knife
+Execute some commands to test connection between knife and workstation
+Organization Setup
+
+Create organization
+Add yourself and node to organization
+Test Node Setup
+
+Create a server and add to organization
+Check node details using knife
+Databags
+
+How to create Databags
+Add Databags to organization
+Node Objects and Search
+
+How to Add Run list to Node
+Check node Details
+Environments
+
+How to create Environments
+Add servers to environments
+Roles
+
+Create roles
+Add Roles to organization
+Advanced Chef
+
+What is foodcritic and TestKichen
+Improve and expand on the existing recipes
+One-click system launching
+ DEVOPS TOOLS: PUPPET
+
+Introduction to Puppetp
+
+Installation and Configuration of Master server and agents
+Managing Manifests
+Creating and Managing modules
+
+Version control with Puppet
+
+ DEVOPS TOOLS: VAGRANT
+
+Introduction
+
+What is Vagrant
+Uses of Vagrant in an environment
+Installation and Configuration
+
+How to install Vagrant in Windows and Linux
+Configure Vagrant
+Provisioning with Vagrant
+
+How to use Vagrant to create small virtual
+Add required Images to Vagrant
+Using Vagrant
+
+Using Vagrant in Chef for Testing
+DEVOPS: SOURCE CODE MANAGEMENT
+
+GIT REPOSITORY
+
+What is a version control system?
+What is a distributed version control system?
+Installation
+Different levels of Git configuration
+The process of staging and committing
+The details of the commit objects
+NEXUS
+
+Nexus prerequisites
+Installing and Running Nexus
+Using the Nexus User Interface
+ CONTINUOUS INTEGRATION
+
+INTRODUCTION TO JENKINS-CI
+
+Continuous Integration with Jenkins Overview
+Installation
+Configure Jenkins as stand-alone application
+Configure Jenkins on an Application Server
+Jenkins management
+Support for the Git version control systems
+Different types of Jenkins Jobs
+Setting up a Jenkins job
+Scheduling build Jobs
+Maven Build Scripts
+Securing Jenkins
+Authentication
+Authorization
+Confidentiality
+Creating users
+Jenkins Plugin
+Installing Jenkins Plugins
+SCM plugin
+Build and test
+Analyzers
+Distributed builds with Jenkins
+Best Practices for Jenkins
+ DEVOPS: MONITORING
+
+NAGIOS
+
+How to monitor the Servers in Nagios
+Trigger Alerts in Nagios
+How to apply blackouts and remove blackouts
+ZENOSS
+
+How to monitor the Servers in Zenoss
+Trigger Alerts in Zenoss
+How to apply blackouts and remove blackouts
+How to check events; CPU,Memory and RAM Graphs for servers
+ DEVOPS: APPLICATION ARCHITECTURE
+
+Web Forms
+
+User Controls
+
+Shared UI Code
+
+Business Logic
+
+CONFIGURATION MANAGEMENT
+
+Configuration Management Activity
+
+Configuration Control
+
+Incident Management
+
+Change Management
+
+Problem Management
+
+GENERAL ENVIRONMENT SETUP STEPS IN AWS and NTTA
+
+Creating Servers and Networks in Cloud
+
+Setting up rules and Application
+
+Difficult Scenarios in environments.
+
+Scaling
+
+Environment testing
+Monitoring logs
